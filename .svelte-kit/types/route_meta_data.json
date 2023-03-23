@@ -1,0 +1,15 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/bio": [
+		"src/routes/+layout.ts"
+	],
+	"/comic": [
+		"src/routes/+layout.ts"
+	],
+	"/contacts": [
+		"src/routes/+layout.ts"
+	]
+}
